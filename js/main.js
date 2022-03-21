@@ -1,3 +1,5 @@
+
+
 (function ($) {
     "use strict";
 
@@ -201,7 +203,9 @@
             responsive: true
         }
     });
-
     
 })(jQuery);
+
+
+
 
